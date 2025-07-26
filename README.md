@@ -35,7 +35,7 @@
 </div>
 </details>
 <details>
-<summary align="center"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px">Other Languages and Tools </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px">Outras Linguagens e ferramentas</h2></summary>
 <div align="center">
     <p></p> 
     <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
